@@ -7,3 +7,5 @@ promena
 i ovde
 
 i ovde
+
+All rights reserved.
