@@ -1,4 +1,4 @@
-# Ovo je za vezbu
+# Ovo je za vezbu....
 
 ovde treba da ide neki tekst
 
