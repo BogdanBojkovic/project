@@ -8,4 +8,4 @@ i ovde
 
 i ovde
 
-All rights reserved.
+All rights reserved. 2017
